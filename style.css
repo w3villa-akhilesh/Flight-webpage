@@ -6,6 +6,8 @@
 }
 body {
   overflow-x: hidden;
+  max-width: 2400px;
+  margin: auto;
 }
 .navbar_logo {
   display: flex;
